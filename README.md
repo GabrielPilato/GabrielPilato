@@ -1,21 +1,32 @@
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="center"> Ola! / Hi there! 👋 </h1>
 
 <p align="center">
+    <b>Meu nome é: / My name is: Gabriel Pilato</b> <br>
     <b>Bem Vindo ao meu perfil! / Welcome to my profile!</b><br><br>
-    <i>
-        <br>
-        Atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC (Faculdade de Tecnologia) de Ribeirão Preto atualmente no 5º Semestre. <br>
-      <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">
-        Também integrante do curso de JAVA realizado em parceria com o PISO (Polo em Inovação de Software) e a FUNTEC (Fundação de Formação Tecnológica) também de Ribeirão             Preto. <br> <br>
-        Ansioso para finalmente entrar no mercado de Tecnologia da Informação e construir a minha carreira! <br>
-        Com cordialidade e fome de conhecimento! <br>
-    </i><br>
-    <a href="https://www.linkedin.com/in/gabriel-leandro-3659641a2/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+     <a href="https://www.linkedin.com/in/gabriel-leandro-3659641a2/">
+        <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:gabrielaraujopilato@gmail.com">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+        <img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
+    <br>
+    <i>
+        <br>
+        Atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC (Faculdade de Tecnologia) de Ribeirão Preto - SP, atualmente no 5º Semestre. <br>
+        Também integrante do curso de JAVA realizado em parceria com o PISO (Polo em Inovação de Software) e a FUNTEC (Fundação de Formação Tecnológica) também de Ribeirão          Preto - SP. <br> <br>
+        Muito ansioso para finalmente entrar no mercado de Tecnologia da Informação e construir a minha carreira! <br>
+        Com cordialidade e fome de conhecimento!
+    </i>
+</p>
+<h2> </h2>
+<p align="center">
+    <i>
+        Currently studying Analysis and System Development at FATEC (Technology College) from Ribeirão Preto - SP, Brazil, right now Im at 5º Semester <br><br>
+        Also part of the JAVA course realized with the partnership with PISO (Pole in Software Innovation) and FUNTEC (Fundation in Technological Fundation) also from               Ribeirão Preto - SP, Brazil <br> <br>
+        Very excited to start working in I.T. area and build my own career!<br>
+        With cordiality and hunger for knowledge <br>
+    </i><br>
+   
 </p>
 
 ### Linguagens / Languages
