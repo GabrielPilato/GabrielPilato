@@ -24,7 +24,7 @@
 <p align="center">
     <i>
         Currently studying Analysis and System Development at FATEC (Technology College) from Ribeirão Preto - SP, Brazil, right now Im at 5º Semester <br><br>
-        Also part of the JAVA course realized with the partnership with PISO (Pole in Software Innovation) and FUNTEC (Fundation in Technological Fundation) also from               Ribeirão Preto - SP, Brazil <br> <br>
+        Also part of the JAVA course realized with the partnership between PISO (Pole in Software Innovation) and FUNTEC (Fundation in Technological Fundation) also from            Ribeirão Preto - SP, Brazil <br> <br>
         Very excited to start working in I.T. area and build my own career!<br>
         With cordiality and hunger for knowledge! <br>
     </i><br>
