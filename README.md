@@ -1,8 +1,8 @@
 <h1 align="center"> Ola! / Hi there! 👋 </h1>
 
 <p align="center">
-    <b>Meu nome é: / My name is: Gabriel Pilato</b> <br>
-    <b>Bem Vindo ao meu perfil! / Welcome to my profile!</b><br><br>
+    Meu nome é: / My name is: <b>Gabriel Pilato</b> <br>
+    Bem Vindo ao meu perfil! / Welcome to my profile!<br><br>
      <a href="https://www.linkedin.com/in/gabriel-leandro-3659641a2/">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
@@ -24,7 +24,7 @@
         Currently studying Analysis and System Development at FATEC (Technology College) from Ribeirão Preto - SP, Brazil, right now Im at 5º Semester <br><br>
         Also part of the JAVA course realized with the partnership with PISO (Pole in Software Innovation) and FUNTEC (Fundation in Technological Fundation) also from               Ribeirão Preto - SP, Brazil <br> <br>
         Very excited to start working in I.T. area and build my own career!<br>
-        With cordiality and hunger for knowledge <br>
+        With cordiality and hunger for knowledge! <br>
     </i><br>
    
 </p>
