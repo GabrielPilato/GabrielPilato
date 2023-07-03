@@ -1,4 +1,4 @@
-<h1 align="center"> Ola! / Hi there! 👋 </h1>
+<h1 align="center"> Ola! / Hi there! ⭐ </h1>
 
 <p align="center">
     Meu nome é: / My name is: <b>Gabriel Pilato</b> <br>
