@@ -18,7 +18,9 @@
         Com cordialidade e fome de conhecimento!
     </i>
 </p>
-<h2> </h2>
+
+___
+
 <p align="center">
     <i>
         Currently studying Analysis and System Development at FATEC (Technology College) from Ribeirão Preto - SP, Brazil, right now Im at 5º Semester <br><br>
