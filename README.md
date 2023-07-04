@@ -39,7 +39,6 @@
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 
