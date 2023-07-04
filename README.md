@@ -13,7 +13,7 @@
     <i>
         <br>
         Atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC (Faculdade de Tecnologia) de Ribeirão Preto - SP, atualmente no 5º Semestre. <br>
-        Também integrante do curso de JAVA realizado em parceria com o PISO (Polo em Inovação de Software) e a FUNTEC (Fundação de Formação Tecnológica) também de Ribeirão          Preto - SP. <br> <br>
+        Também integrante do curso de JAVA realizado em parceria com a PISO (Polo em Inovação de Software) e a FUNTEC (Fundação de Formação Tecnológica) também de Ribeirão          Preto - SP. <br> <br>
         Muito ansioso para finalmente entrar no mercado de Tecnologia da Informação e construir a minha carreira! <br>
         Com cordialidade e fome de conhecimento!
     </i>
