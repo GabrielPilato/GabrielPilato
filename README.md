@@ -31,7 +31,7 @@
    
 </p>
 
-### Linguagens / Languages
+### Languages / Frameworks
 
 ![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter&logoColor=white)
