@@ -1,8 +1,8 @@
-<h1 align="center"> Ola! / Hi there! ⭐ </h1>
+<h1 align="center"> Ola! ⭐ </h1>
 
 <p align="center">
-    Meu nome é: / My name is: <b>Gabriel Pilato</b> <br>
-    Bem Vindo ao meu perfil! / Welcome to my profile!<br><br>
+    Meu nome é: <b>Gabriel Pilato</b> <br>
+    Bem Vindo ao meu perfil! <br><br>
      <a href="https://www.linkedin.com/in/gabriel-leandro-3659641a2/">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
@@ -10,28 +10,17 @@
         <img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
     <br>
-    <i>
-        <br>
+
+ <br>
         Atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC (Faculdade de Tecnologia) de Ribeirão Preto - SP, atualmente no 5º Semestre. <br>
-        Também integrante do curso de JAVA realizado em parceria com a PISO (Polo em Inovação de Software) e a FUNTEC (Fundação de Formação Tecnológica) também de Ribeirão          Preto - SP. <br> <br>
+        Também integrante do curso de JAVA realizado em parceria com a PISO (Polo em Inovação de Software) e a FUNTEC (Fundação de Formação Tecnológica) também de RibeirãoPreto - SP. <br> <br>
         Muito ansioso para finalmente entrar no mercado de Tecnologia da Informação e construir a minha carreira! <br>
         Com cordialidade e fome de conhecimento!
-    </i>
+
 </p>
 
----
 
-<p align="center">
-    <i>
-        Currently studying Analysis and System Development at FATEC (Technology College) from Ribeirão Preto - SP, Brazil, right now Im at 5º Semester <br><br>
-        Also part of the JAVA course realized with the partnership between PISO (Pole in Software Innovation) and FUNTEC (Fundation in Technological Fundation) also from            Ribeirão Preto - SP, Brazil <br> <br>
-        Very excited to start working in I.T. area and build my own career!<br>
-        With cordiality and hunger for knowledge! <br>
-    </i><br>
-   
-</p>
-
-### Languages / Frameworks
+### Linguagens / Framework
 
 ![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter&logoColor=white)
@@ -42,8 +31,12 @@
 ![HTML](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 
+---
 
+## Projetos
 
+### RiberCerra - TCC - FATEC Ribeirão Preto
+RiberCerra é um aplicativo capaz de catalogar e localizar plantas nativas do cerrado da região de Ribeirão Preto, a idéia principal do projeto é criar um aplicativo de código aberto que receberá fotos de usuários interessados em identificar plantas da região e ajudar a alimentar o banco de dados com as localizações, fotos e informações das diversas plantas que temos nas redondezas
   
 <!--
 - 🔭 I’m currently working on ...
